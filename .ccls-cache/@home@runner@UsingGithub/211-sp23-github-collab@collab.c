@@ -90,6 +90,7 @@ int main() {
   dkhar3_nvaly2();
   amari9_asurka2();
   jgongo2_pkoby2_kseki3();
+  vlope22_rmirz2();
 
   return 0;
 }
